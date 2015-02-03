@@ -104,3 +104,4 @@ There's a lot more that you can do with Jekyll that I haven't covered here, such
 * [Joshua Lande: How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/)
 * [Smashing Magazine: Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
 * [Adam Pritchard: Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Github repository for this site](https://www.github.com/clemf/clemf.github.io)
