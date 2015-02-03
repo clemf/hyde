@@ -3,7 +3,7 @@ layout: post
 title: How I Made This Blog Using Jekyll, Poole, and GitHub Pages
 ---
 
-### Why I'm Blogging
+### About
 
 I'm currently attending [Epicodus](http://www.epicodus.com/), which is an intensive 17-week programming bootcamp in Portland, Oregon. As part of my goal of becoming a developer, I've been wanting to create a blog so that I can practice writing while documenting my learning process. I tried to write the following tutorial to be as beginner-friendly as possible, but basic knowledge of Git and Ruby gems is assumed.
 
