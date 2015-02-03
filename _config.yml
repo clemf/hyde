@@ -10,6 +10,7 @@ relative_permalinks: true
 title:            Clem Freeman
 tagline:
 description:      'Aspiring software developer currently learning at <a href="http://www.epicodus.com/">Epicodus</a> in Portland, Oregon'
+baseurl:          /
 
 author:
   name:           'Clem Freeman'
