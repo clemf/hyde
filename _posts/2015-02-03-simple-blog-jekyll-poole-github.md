@@ -9,7 +9,7 @@ I'm currently attending [Epicodus](http://www.epicodus.com/), which is an intens
 
 ### Jekyll and Poole
 
-[Jekyll](http://http://jekyllrb.com/) is a static site generator that works well with [GitHub Pages](http://pages.github.com). Instead of using a dynamic CMS like Wordpress where everything is created from a database on the server, Jekyll generates all of the HTML/CSS/Javascript files locally. This makes for extremely fast and lightweight sites that are easy to work with if you're comfortable with Git. Because GitHub provides their Pages service for free, it's a very attractive combination.
+[Jekyll](http://jekyllrb.com/) is a static site generator that works well with [GitHub Pages](http://pages.github.com). Instead of using a dynamic CMS like Wordpress where everything is created from a database on the server, Jekyll generates all of the HTML/CSS/Javascript files locally. This makes for extremely fast and lightweight sites that are easy to work with if you're comfortable with Git. Because GitHub provides their Pages service for free, it's a very attractive combination.
 
 Following [Joshua Lande's excellent guide](http://joshualande.com/jekyll-github-pages-poole/), I decided to use [Poole](https://getpoole.com/), which is basically a template for building Jekyll sites that provides some extra features to build upon. Even better, it comes with a couple of official themes. I chose the [Hyde theme](http://hyde.getpoole.com/) to start with because I really like the simple two column layout.
 
